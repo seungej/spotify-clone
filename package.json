@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/seungej/spotify-clone/issues"
   },
-  "homepage": "https://github.com/seungej/spotify-clone#readme"
+  "homepage": "https://github.com/seungej/spotify-clone#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "spotify-web-api-js": "^1.5.0"
+  }
 }
